@@ -1,4 +1,4 @@
-# Tugas-Individu-4-Part-4-OOP-Class-Object-Inheritance-Scope-dan-Modules-
+# Tugas-Individu-5-Part-4-OOP-Class-Object-Inheritance-Scope-dan-Modules-
 
 Repository ini dibuat untuk memenuhi Tugas Individu 4: Praktik Machine Learning. Berisi dokumentasi dan hasil eksekusi kode dari materi Dasar Python Bagian 4 yang meliputi penggunaan konsep Pemrograman Berorientasi Objek (OOP), Pewarisan (Inheritance), Cakupan Variabel (Scope), dan Penggunaan Modul.
 
